@@ -1,0 +1,19 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_5" height="397.992168" width="585.988469" y="0.878918" x="1.005656" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#426373"/>
+  <path id="svg_8" d="m235.001052,226.874471" opacity="0.5" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <path id="svg_9" d="m-484.98478,442.870221" opacity="0.5" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <path id="svg_10" d="m-210.990172,252.87396" opacity="0.5" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <path stroke="#000" id="svg_11" d="m7.185572,152.382849l216.953962,0l67.040444,-144.380695l67.040482,144.380695l216.953924,0l-175.519121,89.231155l67.043913,144.380695l-175.519197,-89.233585l-175.519159,89.233585l67.043932,-144.380695l-175.519178,-89.231155z" stroke-width="1.5" fill="#FFFA8D"/>
+  <text stroke="#000" transform="matrix(2.7025243542677018,0,0,3.3623487639165712,-419.2416328876376,-465.5487113642059) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="210.874786" x="233.001091" stroke-opacity="null" stroke-width="0" fill="#000000">JASA</text>
+ </g>
+</svg>
